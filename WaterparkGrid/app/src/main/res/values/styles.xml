@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTitleBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/title_bar_bg</item>
+        <item name="colorPrimaryDark">@color/title_bar_bg</item>
+        <item name="android:textColor">@color/title_bar_text</item>
+        <item name="android:fontFamily">@Reckless</item>
+    </style>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1037834261578",
+    "firebase_url": "https://waterpark-a0292-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "waterpark-a0292",
+    "storage_bucket": "waterpark-a0292.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037834261578:android:c24466ac8329855403c2b3",
+        "android_client_info": {
+          "package_name": "com.example.waterparkgrid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh9MwZG2eLrmfwiT7jrKbgF1jgdGIzhBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
